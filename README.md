@@ -1,4 +1,4 @@
 # transformer
 
 Dynamic string like below picture.
-![image](https://github.com/skysoon02/transformer/assets/24799966/74230e43-ae54-4306-8085-d51567e54a10)
+![20170521070458_gvmsetek](https://github.com/skysoon02/transformer/assets/24799966/d03fe132-ccf0-4ef8-bf52-1fe68405dc61)
